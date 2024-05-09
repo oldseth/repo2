@@ -1,0 +1,3 @@
+comados git :
+- git log: para ver los commits
+- git status: para ver el estdao de los archivos
