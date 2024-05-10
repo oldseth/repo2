@@ -2,3 +2,4 @@ comados git :
 - git log: para ver los commits
 - git status: para ver el estdao de los archivos
 - git merge: para fusionar ramas
+- sigo agregando lienas
