@@ -4,3 +4,5 @@ comados git :
 - git merge: para fusionar ramas
 - sigo agregando lienas
 - esta bien??
+- me parece q si
+- Katia esta escribiendo esta linea
