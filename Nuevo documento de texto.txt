@@ -6,3 +6,5 @@ comados git :
 - esta bien??
 - me parece q si
 - Katia esta escribiendo esta linea
+-seguimos trabajndo el listad de comands git 
+- la anterior linea y esta esta escrito por oldseth
