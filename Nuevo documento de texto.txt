@@ -3,3 +3,4 @@ comados git :
 - git status: para ver el estdao de los archivos
 - git merge: para fusionar ramas
 - sigo agregando lienas
+- esta bien??
