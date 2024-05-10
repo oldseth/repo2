@@ -10,3 +10,4 @@ comados git :
 - la anterior linea y esta esta escrito por oldseth
 - ultima linea antes de hacer PRs
 - Katia intenado subir su linea ahora que hay PRs
+- intentado subir otra vez con PR
